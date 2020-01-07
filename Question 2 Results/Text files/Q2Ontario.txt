@@ -1,0 +1,35 @@
+"Product","Year","Value"
+Tuition fees,2000,91.8
+School textbooks and supplies(Canada),2000,91.725
+Tuition fees,2001,95.7666666666667
+School textbooks and supplies(Canada),2001,95.325
+Tuition fees,2002,100
+School textbooks and supplies(Canada),2002,99.9916666666667
+Tuition fees,2003,104.066666666667
+School textbooks and supplies(Canada),2003,102.4
+Tuition fees,2004,108.233333333333
+School textbooks and supplies(Canada),2004,103.775
+Tuition fees,2005,109.566666666667
+School textbooks and supplies(Canada),2005,105.216666666667
+Tuition fees,2006,112.566666666667
+School textbooks and supplies(Canada),2006,106.25
+Tuition fees,2007,118.3
+School textbooks and supplies(Canada),2007,107.766666666667
+Tuition fees,2008,123.333333333333
+School textbooks and supplies(Canada),2008,108.875
+Tuition fees,2009,128.966666666667
+School textbooks and supplies(Canada),2009,112.716666666667
+Tuition fees,2010,135.133333333333
+School textbooks and supplies(Canada),2010,119.683333333333
+Tuition fees,2011,141.966666666667
+School textbooks and supplies(Canada),2011,125.316666666667
+Tuition fees,2012,149.2
+School textbooks and supplies(Canada),2012,128.425
+Tuition fees,2013,156.366666666667
+School textbooks and supplies(Canada),2013,131.333333333333
+Tuition fees,2014,162.833333333333
+School textbooks and supplies(Canada),2014,135.45
+Tuition fees,2015,169.333333333333
+School textbooks and supplies(Canada),2015,139.9
+Tuition fees,2016,175.933333333333
+School textbooks and supplies(Canada),2016,143.041666666667

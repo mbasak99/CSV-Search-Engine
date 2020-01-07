@@ -1,0 +1,19 @@
+"Product","Year","Value"
+Prescribed Medication Price Change,2000,95.9
+Spending on Prescription Drugs per Households (After tax),2000,65.9
+Prescribed Medication Price Change,2001,99.225
+Spending on Prescription Drugs per Households (After tax),2001,67.6
+Prescribed Medication Price Change,2002,100.008333333333
+Spending on Prescription Drugs per Households (After tax),2002,70.7
+Prescribed Medication Price Change,2003,100.266666666667
+Spending on Prescription Drugs per Households (After tax),2003,67.7
+Prescribed Medication Price Change,2004,100.475
+Spending on Prescription Drugs per Households (After tax),2004,67
+Prescribed Medication Price Change,2005,101.341666666667
+Spending on Prescription Drugs per Households (After tax),2005,70.1
+Prescribed Medication Price Change,2006,100.808333333333
+Spending on Prescription Drugs per Households (After tax),2006,71
+Prescribed Medication Price Change,2007,101.766666666667
+Spending on Prescription Drugs per Households (After tax),2007,73.1
+Prescribed Medication Price Change,2008,102.441666666667
+Spending on Prescription Drugs per Households (After tax),2008,71.2
